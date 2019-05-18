@@ -2,8 +2,7 @@
 
 This is the first file in this repo.
 
-## Ipsum Below
+## Website Contents
 
-blah blah blah
-lah lah lah
-hah hah hah
+1. index.html
+2. show.html
